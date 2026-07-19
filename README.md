@@ -2,23 +2,23 @@
 
 > My TryHackMe and Cybersecurity Learning Journey
 
-### 👋 About Me
-I am Arif, learning Cybersecurity from scratch while working abroad. My goal is to become a SOC Analyst and work in cybersecurity to support my family back home.
+## 👋 About Me
+I am Arif, learning Cybersecurity from scratch while working abroad. My goal is to become a SOC Analyst and work in cybersecurity to support my family.
 
-### 📚 What I am learning
-- TryHackMe - Pre Security & SOC Level 1
-- Phishing, Network Security, Linux Basics
-- Tools: Nmap, Wireshark, Burp Suite
+## 📚 What I'm Learning
+- [x] Phishing Attacks
+- [x] Nmap Scanning
+- [ ] Linux Basics
+- [ ] Networking
 
-### 🎯 My Goal for 2026
-- Complete TryHackMe SOC Level 1
-- Get a remote job in Cybersecurity
-- Go home after 9 years
+## 📂 My Notes
+| File | Topic |
+| :--- | :--- |
+| [phishing-notes.md](phishing-notes.md) | Phishing Attack |
+| [nmap-notes.md](nmap-notes.md) | Nmap Scanning |
 
-### 📖 My Notes
-All my notes from TryHackMe rooms will be documented here.
+## 🎯 My Goal
+To become a certified SOC Analyst.
 
 ---
-⭐ Star this repo if you are also learning!
-
-*Started: July 2026 | Maldives*
+⭐ Feel free to use my notes!
