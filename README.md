@@ -22,3 +22,4 @@ To become a certified SOC Analyst.
 
 ---
 ⭐ Feel free to use my notes!
+  linux-basics-notes.md
