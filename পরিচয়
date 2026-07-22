@@ -1,0 +1,10 @@
+# Mission 1 - Arif The Future Hacker
+name = "Arif"
+dream = "বড় Ethical Hacker"
+
+print("="*30)
+print(f"নাম: {name}")
+print(f"লক্ষ্য: {dream}")
+print("স্ট্যাটাস: যাত্রা শুরু হলো!")
+print("="*30)
+print("\nWelcome to the Hacker World, Arif!")
